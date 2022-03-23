@@ -1,10 +1,14 @@
 <template>
   <header>
-    <h2>Hello Stepahn</h2>
     <TheNavBar />
-    <DarkMode />
-    <Login />
+    <!-- <DarkMode />
+    <Login /> -->
   </header>
 </template>
 
-<script setup></script>
+//
+<script setup>
+  //   import { computed } from "vue";
+  //   import TheNavBar from "./components/ui/TheNavBar.vue";
+  //
+</script>

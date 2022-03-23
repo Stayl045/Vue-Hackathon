@@ -1,12 +1,9 @@
 <template>
-  <nav>
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </nav>
-  <router-view />
+  <TheNavBar />
 </template>
 
 <script setup>
-import { computed } from "vue";
-import BaseHeader from "./components/BaseHeader.vue";
+  import { computed } from "vue";
+  import BaseHeader from "./components/base/BaseHeader.vue";
+  import TheNavBar from "./components/ui/TheNavBar.vue";
 </script>
