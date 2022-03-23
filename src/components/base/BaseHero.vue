@@ -1,5 +1,5 @@
 <template>
-  <div class="grid grid-cols-2 items-center text-center mt-10">
+  <div class="grid grid-cols-2 items-center text-center mt-10 ml-12">
     <div class="w-85 gap-5">
       <h1 class="mb-8 text-6xl">
         Helping people makes the world a better place through quality software
