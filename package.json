@@ -18,6 +18,8 @@
     "@vue/cli-plugin-babel": "~5.0.0",
     "@vue/cli-plugin-router": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
+    "eslint": "^8.11.0",
+    "eslint-plugin-vue": "^8.5.0",
     "vue-cli-plugin-tailwind": "^3.0.0"
   },
   "browserslist": [
