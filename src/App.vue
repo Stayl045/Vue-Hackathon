@@ -7,6 +7,6 @@
 </template>
 
 <script setup>
-  import { computed } from "vue";
-  import BaseHeader from "./components/BaseHeader.vue";
+import { computed } from "vue";
+import BaseHeader from "./components/BaseHeader.vue";
 </script>
